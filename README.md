@@ -1,7 +1,8 @@
-## 🌟 About Me
-👋 Hi there! I'm **Dum1du** , a **Software Engineering Student** and **Full-stack Developer** passionate about creating impactful applications and collaborating on exciting projects.
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=F7F7F7&background=1A1B27&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Dum1du+👋;Software+Engineering+Student+💻;Full-stack+Developer+⚡;Let's+build+something+amazing!)](https://github.com/Dum1du)
 
+
+## 🌟 About Me
+👋 Hi there! I'm **Dum1du** , a **Software Engineering Student** and **Full-stack Developer** passionate about creating impactful applications and collaborating on exciting projects.
 
 - 💻 **Languages:** Java, JavaScript, Python, HTML, CSS
 - 🌐 **Frameworks & Tools:** React Native, Node.js, Android Studio
