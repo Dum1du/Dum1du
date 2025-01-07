@@ -1,5 +1,5 @@
 ## 🌟 About Me
-👋 Hi there! I'm **GhostByte** (Dum1du), a **Software Engineering Student** and **Full-stack Developer** passionate about creating impactful applications and collaborating on exciting projects.
+👋 Hi there! I'm **Dum1du** , a **Software Engineering Student** and **Full-stack Developer** passionate about creating impactful applications and collaborating on exciting projects.
 
 - 💻 **Languages:** Java, JavaScript, Python, HTML, CSS
 - 🌐 **Frameworks & Tools:** React Native, Node.js, Android Studio
