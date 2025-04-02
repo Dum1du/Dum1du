@@ -12,15 +12,9 @@
 
 ---
 
-## 🚀 My Featured Project
-### [Fy-FoundYou: The Parent Control App](https://github.com/your-link-here)
-🔒 *The ultimate app for monitoring your child's current location in real-time. Prioritize safety with live location tracking.*
-
-- 🌟 Tech Stack: **Java**, **Firebase**, **Google Maps API**
-- ✨ Features: 
-  - Live location tracking
-  - Parent-child safety controls
-  - User-friendly interface
+## 🚀 My Featured Projects
+1. **[FB-Clone](https://facebook-clone-e6f91.web.app/)** – React + Firebase social network  
+2. **[Fy-FoundYou](https://github.com/Dum1du/Fy-FoundYou.the.parent.control/releases/tag/v1.0.0)** – Java parent-control app   
 
 ---
 
