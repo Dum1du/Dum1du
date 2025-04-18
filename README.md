@@ -13,8 +13,9 @@
 ---
 
 ## 🚀 My Featured Projects
-1. **[FB-Clone](https://facebook-clone-e6f91.web.app/)** – React + Firebase social network  
-2. **[Fy-FoundYou](https://github.com/Dum1du/Fy-FoundYou.the.parent.control/releases/tag/v1.0.0)** – Java parent-control app   
+1. **[KineTown](https://kinetown.pages.dev/)** – React + KineTown the sinhala subtitle provider  
+2. **[Fy-FoundYou](https://github.com/Dum1du/Fy-FoundYou.the.parent.control/releases/tag/v1.0.0)** – Java parent-control app  
+3. **[FB-Clone](https://facebook-clone-e6f91.web.app/)** – React + Firebase social network
 
 ---
 
