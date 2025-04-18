@@ -36,4 +36,4 @@
 
 ## 🤝 Let's Connect!
 - 🌐 [Portfolio Website](https://dum1du.github.io/my-portfolio/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link-here)
+- 💼 [LinkedIn](https://www.linkedin.com/in/dumidu-prabashana-6bab75286/)
